@@ -15,7 +15,8 @@ class Challenge {
     int bracePairs = 0;
     String braceInput = braces.trim();
     String check;
-    
+    int age = 0;
+    System.out.println(age);
     //check string length to assess if its 0
     //if true set result to 0 & return
     //else continue
